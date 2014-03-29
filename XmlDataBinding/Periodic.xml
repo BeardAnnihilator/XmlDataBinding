@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PeriodicTable>
+	<Element Name="Actinium" Symbol="Ac" AtomicNo="89" AtomicWeight="227" CasID="7440-34-8" GroupName="Actinoid" GroupPeriod="7" block="f" Colour="silver" Boiling="3471" Melting="1320" Density="10.07"
+Classification="Metallic" Note="radioactive metallic element. Glows in the dark with an eerie blue light."/>
+	<Element Name="Aluminium" Symbol="Al" AtomicNo="13" AtomicWeight="26.9815386" CasID="7429-90-5" GroupName="(none)" GroupPeriod="3" block="p" Colour="silvery" Boiling="2792" Melting="933.40" Density="2.698"
+Classification="Metallic" Note="non-magnetic, very reflective, lightweight, aircraft, common building material."/>
+	<Element Name="Americium" Symbol="Am" AtomicNo="95" AtomicWeight="243" CasID="7440-35-9" GroupName="Actinoid" GroupPeriod="7" block="f" Colour="silvery white" Boiling="2880" Melting="1267" Density="13.69" Classification="Metallic" Note="Am-241 used in smoke detectors."/>
+	<Element Name="Antimony" Symbol="Sb" AtomicNo="51" AtomicWeight="121.760" CasID="7440-36-0" GroupName="Pnictogen" GroupPeriod="5" block="p" Colour="silvery lustrous grey" Boiling="1860" Melting="904.1" Density="6.685"
+Classification="Semi-Metallic" Note="toxic"/>
+
+<Element Name="Argon" Symbol="Ar" AtomicNo="18" AtomicWeight="39.948" CasID="7440-36-0" GroupName="Pnictogen" GroupPeriod="5" block="p" Colour="silvery lustrous grey" Boiling="87.30" Melting="84" Density="0.0017837"
+Classification="Semi-Metallic" Note="Non-reactive"/>
+
+<Element Name="Arsenic" Symbol="As" AtomicNo="33" AtomicWeight="74.92160" CasID="7440-38-2" GroupName="Pnictogen" GroupPeriod="4" block="p" Colour="metallic gray, allotropic forms; yellow, black and grey" Boiling="887" Melting="1090" Density="5.776"
+Classification="Semi-Metallic" Note="poisonous"/>
+
+<Element Name="Astatine" Symbol="At" AtomicNo="85" AtomicWeight="210" CasID="7440-68-8" GroupName="Halogen" GroupPeriod="6" block="p" Colour="metallic" Boiling="610" Melting="575" Density="7"
+Classification="Semi-Metallic" Note="Extremely rare"/>
+
+<Element Name="Barium" Symbol="Ba" AtomicNo="56" AtomicWeight="137.327" CasID="7440-39-3" GroupName="Alkaline earth metal" GroupPeriod="6" block="s" Colour="silvery white" Boiling="2170" Melting="1002" Density="3.594"
+Classification="Metallic" Note="Naturally occurring barium is a mix of seven stable isotopes. There are twenty-two isotopes known, but most of these are highly radioactive and have half-lives in the several millisecond to several minute range. The only notable exceptions are 133Ba which has a half-life of 10.51 years, and 137mBa (2.6 minutes)."/>
+
+<Element Name="Berkelium" Symbol="Bk" AtomicNo="97" AtomicWeight="247" CasID="7440-40-6" GroupName="Actinoid" GroupPeriod="7" block="f" Colour="unknown, but probably metallic and silvery white or grey in appearance" Boiling="983" Melting="1259" Density="14.79" Classification="Metallic" Note="artificial"/>
+
+<Element Name="Beryllium" Symbol="Be" AtomicNo="4" AtomicWeight="9.012182" CasID="7440-41-7" GroupName="Alkaline earth metal" GroupPeriod="2" block="s" Colour="lead grey, grey metallic" Boiling="2742" Melting="1560" Density="1.85" Classification="Metallic" Note="brittle, toxic, used in lightweight alloys, e.g. spacecraft and missiles."/>
+
+<Element Name="Bismuth" Symbol="Bi" AtomicNo="83" AtomicWeight="208.98040" CasID="7440-69-9" GroupName="Pnictogen" GroupPeriod="6" block="p" Colour="lustrous reddish white" Boiling="1837" Melting="544.67" Density="9.807" Classification="Metallic" Note="electrical solders, fire suppressors, replacement for lead bullets"/>
+
+<Element Name="Bohrium" Symbol="Bh" AtomicNo="107" AtomicWeight="272" CasID="54037-14-8" GroupName="" GroupPeriod="7" block="d-block" Colour="metallic and silvery white or grey in appearance" Boiling="" Melting="" Density="37" Classification="Metallic" Note="Melting and Boiling points unknown"/>
+
+<Element Name="Boron" Symbol="B" AtomicNo="5" AtomicWeight="10.811" CasID="7440-42-8" GroupName="" GroupPeriod="2" block="p" Colour="black/brown/ amorphous boron is a brown powder, metallic boron is black" Boiling="4200" Melting="2570" Density="2.34" Classification="Semi-metallic" Note="The metallic form is hard (9.3 on Mohs' scale) and a poor conductor at room temperature."/>
+
+<Element Name="Bromine" Symbol="Br" AtomicNo="35" AtomicWeight="79.904" CasID="7726-95-6" GroupName="Halogen" GroupPeriod="4" block="p" Colour="reddish-brown liquid" Boiling="332" Melting="266" Density="3.122" Classification="Non-metallic" Note="A red volatile liquid at standard room temperature. This element is corrosive to human tissue"/>
+
+<Element Name="Cadmium" Symbol="Cd" AtomicNo="48" AtomicWeight="112.411" CasID="7440-43-9" GroupName="" GroupPeriod="5" block="d" Colour="silvery grey metallic" Boiling="1040" Melting="594.33" Density="8.69" Classification="Metallic" Note="toxic, used in batteries"/>
+
+<Element Name="Caesium" Symbol="Cs" AtomicNo="55" AtomicWeight="132.9054519" CasID="7440-46-2" GroupName="Alkali Metal" GroupPeriod="6" block="s" Colour="silvery gold" Boiling="944" Melting="301.70" Density="1.873" Classification="Metallic" Note="liquid at or near room temperature, very reactive, reacts explosively with water."/>
+
+<Element Name="Calcium" Symbol="Ca" AtomicNo="20" AtomicWeight="40.078" CasID="7440-70-2" GroupName="Alkaline earth metal" GroupPeriod="4" block="s" Colour="silvery white" Boiling="1757" Melting="1112" Density="1.54" Classification="Metallic" Note="reacts slowly with water, tarnishes quickly in air"/>
+
+<Element Name="Californium" Symbol="Cf" AtomicNo="98" AtomicWeight="251" CasID="7440-71-3" GroupName="actinoid" GroupPeriod="7" block="f" Colour="" Boiling="1173" Melting="1925" Density="15.10" Classification="Metallic" Note="artificial"/>
+
+<Element Name="Carbon" Symbol="C" AtomicNo="6" AtomicWeight="12.0107" CasID="7440-44-0" GroupName="" GroupPeriod="2" block="p" Colour="graphite is black, diamond is colourless" Boiling="5100" Melting="3820" Density="3.513" Classification="Non-metallic" Note="diamond or graphite"/>
+
+
+<Element Name="Cerium" Symbol="Ce" AtomicNo="58" AtomicWeight="140.116" CasID="7440-45-1" GroupName="Lanthanoid" GroupPeriod="6" block="f" Colour="resembles iron" Boiling="3716" Melting="1071" Density="6.770" Classification="Metallic" Note="Used in ceramics and glassmaking, component of 
+         flints in cigarette lighters."/>
+
+
+<Element Name="Caesium" Symbol="CS" AtomicNo="55" AtomicWeight="132.905451" CasID="7440-46-2" GroupName="Alkali metal" GroupPeriod="6" block="s" Colour="silvery gold" Boiling="944" Melting="301.70" Density="1.873" Classification="Metallic" Note="liquid at or near room temperature, very reactive, reacts explosively with water."/>
+
+
+<Element Name="Chlorine" Symbol="Cl" AtomicNo="17" AtomicWeight="35.453" CasID="7782-50-5" GroupName="Halogen" GroupPeriod="3" block="p" Colour="yellowish green" Boiling="239.11" Melting="172" Density="0.003214" Classification="non-metallic" Note="Cleaning, dissenfectant"/>
+
+
+<Element Name="Chromium" Symbol="Cr" AtomicNo="24" AtomicWeight="51.9961" CasID="7440-47-3" GroupName="" GroupPeriod="4" block="d" Colour="silvery metallic" Boiling="2944" Melting="2130" Density="7.14" Classification="Metallic" Note=" Stainless steels, chrome plating, heating coils; +6 compounds are toxic"/>
+
+<Element Name="Cobolt" Symbol="Co" AtomicNo="27" AtomicWeight="58.933195" CasID="7440-48-4z" GroupName="" GroupPeriod="4" block="d" Colour="silvery metallic" Boiling="2944" Melting="2130" Density="7.14" Classification="Metallic" Note=" Stainless steels, chrome plating, heating coils; +6 compounds are toxic"/>
+
+<Element Name="Copernicium" Symbol="Cn" AtomicNo="112" AtomicWeight="285" CasID="54084-26-3" GroupName="" GroupPeriod="7" block="d" Colour="" Boiling="" Melting="" Density="13.5336" Classification="Metallic" Note="artifical"/>
+
+<Element Name="Copper" Symbol="Cu" AtomicNo="29" AtomicWeight="63.546" CasID="7440-50-8" GroupName="Coinage metal" GroupPeriod="4" block="d" Colour="copper, metallic" Boiling="2835" Melting="1357.8" Density="8.96" Classification="Metallic" Note="metal, good conductor of electricity and heat"/>
+
+
+<Element Name="Curium" Symbol="Cm" AtomicNo="96" AtomicWeight="247" CasID="7440-51-9" GroupName="Actinoid" GroupPeriod="7" block="f" Colour="silver" Boiling="3383" Melting="1340" Density="13.51" Classification="Metallic" Note="artificial"/>
+
+<Element Name="Darmstadtium" Symbol="Ds" AtomicNo="110" AtomicWeight="281" CasID="54083-77-1" GroupName="" GroupPeriod="7" block="d" Colour="" Boiling="" Melting="" Density="21.46" Classification="Metallic" Note="artifical"/>
+
+
+<Element Name="Dubnium" Symbol="Db" AtomicNo="105" AtomicWeight="268" CasID="53850-35-4" GroupName="" GroupPeriod="7" block="d" Colour="" Boiling="" Melting="" Density="39" Classification="Metallic" Note="artificial"/>
+
+
+<Element Name="Dysprosium" Symbol="Dy" AtomicNo="66" AtomicWeight="162.5" CasID="7429-91-6" GroupName="Lanthanoid" GroupPeriod="6" block="f" Colour="silvery white" Boiling="2840" Melting="1680" Density="8.55" Classification="Metallic" Note="Rare earth metal found in minerals such as xenotime, monazite and bastnaesite"/>
+
+<Element Name="Einsteinium" Symbol="Es" AtomicNo="99" AtomicWeight="252" CasID="7429-92-7" GroupName="Actinoid" GroupPeriod="7" block="f" Colour="" Boiling="" Melting="1130" Density="13.5" Classification="Metallic" Note="artifical"/>
+
+<Element Name="Erbium" Symbol="Er" AtomicNo="68" AtomicWeight="167.259" CasID="7440-52-0" GroupName="Lanthanoid" GroupPeriod="6" block="f" Colour="silvery white" Boiling="3503" Melting="1795" Density="9.066" Classification="Metallic" Note=""/>
+
+<Element Name="Europium" Symbol="Eu" AtomicNo="63" AtomicWeight="151.964" CasID="7440-53-1" GroupName="Lanthanoid" GroupPeriod="6" block="f" Colour="silvery white" Boiling="1802" Melting="1095" Density="5.243" Classification="Metallic" Note="Used in television screens to produce a red colour."/>
+
+<Element Name="Fermium" Symbol="Fm" AtomicNo="100" AtomicWeight="257" CasID="7430-72-4" GroupName="" GroupPeriod="7" block="f" Colour="" Boiling="" Melting="" Density="" Classification="Metallic" Note=""/>
+
+<Element Name="Fluorine" Symbol="F" AtomicNo="9" AtomicWeight="18.9984032" CasID="7782-41-4" GroupName="Halogen" GroupPeriod="2" block="p" Colour="pale yellow" Boiling="85.03" Melting="53.6" Density="0.001696" Classification="Non-metallic" Note="Used in nuclear energy"/>
+
+<Element Name="Francium" Symbol="Fr" AtomicNo="87" AtomicWeight="223" CasID="7440-73-5" GroupName="Alkali metal" GroupPeriod="7" block="s" Colour="metallic" Boiling="950" Melting="300" Density="1.87" Classification="Metallic" Note="alkali metal isotope found in uranium and thorium ores, reacts explosively with air and water."/>
+
+<Element Name="Gadolinium" Symbol="Gd" AtomicNo="64" AtomicWeight="157.25" CasID="7440-54-2" GroupName="Lanthanoid" GroupPeriod="6" block="f" Colour="silvery white" Boiling="3546" Melting="1585" Density="7.895" Classification="Metallic" Note="Phosphor in TV tubes and fluorescent lights."/>
+
+<Element Name="Gallium" Symbol="Ga" AtomicNo="31" AtomicWeight="69.723" CasID="7440-55-3" GroupName="" GroupPeriod="4" block="p" Colour="silvery white" Boiling="2477" Melting="302.91" Density="5.907" Classification="Metallic" Note="melts at 29.7 degrees Celsius, Used in semiconductors. Used in Blue LEDs"/>
+
+<Element Name="Germanium" Symbol="Ge" AtomicNo="32" AtomicWeight="72.64" CasID="7440-56-4" GroupName="" GroupPeriod="4" block="p" Colour="greyish white" Boiling="3106" Melting="1211.4" Density="5.323" Classification="Semi-metallic" Note="Used in semiconductors and LEDs. Chemotherapeutic agents"/>
+
+<Element Name="Gold" Symbol="Au" AtomicNo="79" AtomicWeight="196.966569" CasID="740-57-5" GroupName="Coinage metal" GroupPeriod="6" block="d" Colour="gold" Boiling="3129" Melting="1337.73" Density="19.282" Classification="Metallic" Note="Highly precious and rare, valuable and used in coinage"/>
+
+<Element Name="Hafnium" Symbol="Hf" AtomicNo="72" AtomicWeight="178.49" CasID="7440-58-6" GroupName="" GroupPeriod="6" block="d" Colour="grey steel" Boiling="4876" Melting="2500" Density="13.31" Classification="Metallic" Note="Used for nuclear reactor control rods."/>
+
+<Element Name="Hassium" Symbol="Hs" AtomicNo="108" AtomicWeight="270" CasID="54037-57-9" GroupName="" GroupPeriod="7" block="d" Colour="" Boiling="" Melting="" Density="41" Classification="Metallic" Note=""/>
+
+<Element Name="Helium" Symbol="He" AtomicNo="2" AtomicWeight="4.002602" CasID="7440-59-7" GroupName="Noble gas" GroupPeriod="1" block="p" Colour="colourless" Boiling="4.22" Melting="" Density="" Classification="non-metallic" Note="unreactive, colourless, odourless"/>
+
+<Element Name="Holmium" Symbol="Ho" AtomicNo="67" AtomicWeight="164.93032" CasID="74" GroupName="Lanthanoid" GroupPeriod="6" block="f" Colour="silvery white" Boiling="2993" Melting="1740" Density="8.795" Classification="Metallic" Note="Magnetic. Rare earth metal found in monazite, gadolinite and other minerals. Used in nuclear control rods"/>
+
+<Element Name="Hydrogen" Symbol="H" AtomicNo="1" AtomicWeight="1.00794" CasID="1333-74-0" GroupName="" GroupPeriod="1" block="s" Colour="colourless" Boiling="20.28" Melting="14.2" Density="0.00008988" Classification="Non-metallic" Note="diatomic"/>
+
+<Element Name="Indium" Symbol="In" AtomicNo="49" AtomicWeight="114.818" CasID="7440-74-6" GroupName="" GroupPeriod="5" block="p" Colour="silvery lustrous grey" Boiling="2345" Melting="429.91" Density="7.310" Classification="Metallic" Note="Canada produces the majority of of the world's supply of indium."/>
+
+<Element Name="Iodine" Symbol="I" AtomicNo="53" AtomicWeight="126.90447" CasID="7553-56-2" GroupName="Halogen" GroupPeriod="5" block="p" Colour="violet-dark grey, lustrous" Boiling="457.4" Melting="386.7" Density="4.93" Classification="Non-metallic" Note="Least reactive of the halogens, still a strong oxidizing agent. Heaviest trace element essential for life."/>
+
+<Element Name="Iridium" Symbol="Ir" AtomicNo="77" AtomicWeight="192.217" CasID="7439-88-5" GroupName="Precious metal or Platinum group metal" GroupPeriod="6" block="d" Colour="silver white" Boiling="4701" Melting="2716" Density="22.560" Classification="Metallic" Note="Most corrosion resistant metal known"/>
+
+<Element Name="Iron" Symbol="Fe" AtomicNo="26" AtomicWeight="55.845" CasID="7439-89-6" GroupName="" GroupPeriod="4" block="d" Colour="lustrous, metallic, greyish tinge" Boiling="3134" Melting="1808" Density="7.874" Classification="Metallic" Note="Most stable element. Greatest number of stable isotopes."/>
+
+<Element Name="Krypton" Symbol="Kr" AtomicNo="36" AtomicWeight="83.798" CasID="7439-90-9" GroupName="Noble Gas" GroupPeriod="4" block="p" Colour="colourless" Boiling="119.93" Melting="116" Density="0.003733" Classification="Non-Metallic" Note="forms compounds with fluorine and clathrates with water"/>
+
+<Element Name="Lanthanum" Symbol="La" AtomicNo="57" AtomicWeight="138.90547" CasID="7439-91-0" GroupName="Lanthanoid" GroupPeriod="6" block="f" Colour="silvery white" Boiling="3737" Melting="1190" Density="6.145" Classification="Metallic" Note="Makes lighter flints"/>
+
+<Element Name="Lawrencium" Symbol="Lr" AtomicNo="103" AtomicWeight="262" CasID="22537-19-5" GroupName="" GroupPeriod="7" block="d" Colour="" Boiling="" Melting="" Density="9.84" Classification="Metallic" Note="artificial"/>
+
+<Element Name="Lead" Symbol="Pb" AtomicNo="82" AtomicWeight="207.2" CasID="7439-92-1" GroupName="" GroupPeriod="6" block="p" Colour="bluish white" Boiling="2022" Melting="600.8" Density="11.342" Classification="Metallic" Note="toxic, being phased out in most applications"/>
+
+<Element Name="Lithium" Symbol="Li" AtomicNo="3" AtomicWeight="6.941" CasID="7439-93-2" GroupName="Alkali" GroupPeriod="2" block="s" Colour="silvery white/grey" Boiling="1615" Melting="453.9" Density="0.534" Classification="Metallic" Note="used in batteries. the least dense metal"/>
+
+<Element Name="Lutetium" Symbol="Lu" AtomicNo="71" AtomicWeight="174.9668" CasID="7439-94-3" GroupName="" GroupPeriod="6" block="d" Colour="silvery white" Boiling="3675" Melting="1936" Density="9.84" Classification="Metallic" Note="Perhaps the most expensive of all rare elements. "/>
+
+<Element Name="Magnesium" Symbol="Mg" AtomicNo="12" AtomicWeight="24.3050" CasID="7439-95-4" GroupName="Alkaline earth metal" GroupPeriod="3" block="s" Colour="silvery white" Boiling="1363" Melting="923" Density="1.738" classification="Metallic" Note="brittle, flammable, used in lightweight alloys, burns with a bright flame"/>
+
+<Element Name="Manganese" Symbol="Mn" AtomicNo="25" AtomicWeight="54.938045" CasID="7439-96-5" GroupName="" GroupPeriod="4" block="d" Colour="silvery metallic" Boiling="2334" Melting="1519" Density="7.44" Classification="Metallic" Note="Important component of steel."/>
+
+<Element Name="Meitnerium" Symbol="Mt" AtomicNo="109" AtomicWeight="276" CasID="54038-01-6" GroupName="" GroupPeriod="7" block="d-block" Colour="" Boiling="" Melting="" Density="35" Classification="Metallic" Note="artificial"/>
+
+<Element Name="Mendelevium" Symbol="Md" AtomicNo="101" AtomicWeight="258" CasID="7440-11-1" GroupName="Actinoid" GroupPeriod="7" block="f" Colour="" Boiling="" Melting="" Density="" Classification="Metallic" Note=""/>
+
+<Element Name="Mercury" Symbol="hg" AtomicNo="80" AtomicWeight="200.59" CasID="7439-97-6" GroupName="" GroupPeriod="6" block="d" Colour="silvery white" Boiling="630" Melting="234" Density="13.5336" Classification="Metallic" Note="liquid at room temperature; toxic; in batteries and thermometers"/>
+
+<Element Name="Molybdenum" Symbol="Mo" AtomicNo="42" AtomicWeight="95.96" CasID="7439-98-7" GroupName="" GroupPeriod="5" block="d-block" Colour="grey metallic" Boiling="4912" Melting="2890" Density="10.22" Classification="Metallic" Note="In chrome-moly steels and other steels, lubricants"/>
+
+<Element Name="Neodymium" Symbol="Nd" AtomicNo="60" AtomicWeight="144.242" CasID="7440-00-8" GroupName="Lanthanoid" GroupPeriod="6" block="f" Colour="silvery white, yellowish tinge" Boiling="3347" Melting="1289" Density="7.007" Classification="Metallic" Note="Used in powerful permanent magnets and LASERs"/>
+
+<Element Name="Neon" Symbol="Ne" AtomicNo="10" AtomicWeight="20.1797" CasID="7440-01-9" GroupName="Noble Gas" GroupPeriod="2" block="p" Colour="colourless" Boiling="27.07" Melting="24.7" Density="0.0008999" Classification="Non-metallic" Note="Liquid neon has over 40 times more refrigerating capacity than liquid helium"/>
+
+<Element Name="Neptunium" Symbol="Np" AtomicNo="93" AtomicWeight="237" CasID="7439-99-8" GroupName="Actinoid" GroupPeriod="7" block="f" Colour="silvery metallic" Boiling="4273" Melting="913" Density="20.45" Classification="Metallic" Note="By-product of nuclear reactors"/>
+
+<Element Name="Nickel" Symbol="Ni" AtomicNo="28" AtomicWeight="58.6934" CasID="7440-02-0" GroupName="" GroupPeriod="4" block="d" 
+
+Colour="lustrous, metallic, silvery tinge" Boiling="3186" Melting="1726" Density="8.192" Classification="Metallic" Note="alloys, nickel plating"/>
+
+<Element Name="Niobium" Symbol="Nb" AtomicNo="41" AtomicWeight="92.90638" CasID="7440-03-1" GroupName="" GroupPeriod="5" block="d" Colour="grey metallic" Boiling="5017" Melting="2741" Density="" Classification="Metallic" Note=""/>
+
+<Element Name="Nitrogen" Symbol="N" AtomicNo="7" AtomicWeight="14.0067" CasID="7727-37-9" GroupName="Pnictogen" GroupPeriod="2" block="p" Colour="colourless" Boiling="77.36" Melting="63.3" Density="0.0012506" Classification="Non-Metallic" Note="Fertilizer, diatomic gas"/>
+
+<Element Name="Nobelium" Symbol="No" AtomicNo="102" AtomicWeight="259" CasID="10028-14-5" GroupName="Actinoid" GroupPeriod="7" block="f" Colour="" Boiling="" Melting="" Density="" Classification="Metallic" Note="artificial"/>
+
+<Element Name="Osmium" Symbol="Os" AtomicNo="76" AtomicWeight="190.23" CasID="7440-04-2" GroupName="Platinum Group Metal" GroupPeriod="6" block="d" Colour="bluish grey" Boiling="5285" Melting="3300" Density="22.610" Classification="Metallic" Note="Catalyst, Densest natural element"/>
+
+<Element Name="Oxygen" Symbol="O" AtomicNo="8" AtomicWeight="15.9994" CasID="7782-44-7" GroupName="Chalcogen" GroupPeriod="2" block="p" Colour="colourless as a gas, liquid is pale blue" Boiling="90.20" Melting="50.5" Density="0.001429" Classification="Non-metallic" Note="diatomic gas"/>
+
+<Element Name="Palladium" Symbol="Pd" AtomicNo="46" AtomicWeight="106.42" CasID="7440-05-3" GroupName="Platinum Group Metals" GroupPeriod="Platinum Group Metal" block="d" Colour="silvery white metallic" Boiling="3236" Melting="1825" Density="12.020" Classification="Metallic" Note="Used in automobile catalytic converters. At room temperatures the metal has the unusual property of absorbing up to 900 times its own volume of hydrogen. Hydrogen readily diffuses through heated palladium and this provides a means of purifying the gas."/>
+
+<Element Name="Phosphorus" Symbol="P" AtomicNo="15" AtomicWeight="30.973762" CasID="7723-14-0" GroupName="Pnictogen" GroupPeriod="3" block="p" Colour="colourless/red/silvery white" Boiling="553" Melting="317.3" Density="1.82" Classification="Non-metallic" Note="Due to its high reactivity, it is never found as a free element in nature. Phosphorus compounds are essential to living things" />
+
+<Element Name="Platinum" Symbol="Pt" AtomicNo="78" AtomicWeight="195.084" CasID="7440-06-4" GroupName="Platinum group metals " GroupPeriod="6" block="d" Colour="Greyish white" Boiling="4098" Melting="2045" Density="21.46" Classification="Metallic" Note="Precious metal and industrial catalyst"/>
+
+<Element Name="Plutonium" Symbol="Pu" AtomicNo="94" AtomicWeight="244" CasID="7440-07-5" GroupName="Actinoid" GroupPeriod="7" block="f" Colour="silvery white" Boiling="3501" Melting="913" Density="9.84" Classification="Metallic" Note="nuclear fuel"/>
+
+<Element Name="Polonium" Symbol="Po" AtomicNo="84" AtomicWeight="209" CasID="7440-08-6" GroupName="Chalcogen" GroupPeriod="6" block="p" Colour="silvery" Boiling="1235" Melting="527" Density="9.32" Classification="Metallic" Note="Radioactive"/>
+
+<Element Name="Potassium" Symbol="K" AtomicNo="19" AtomicWeight="39.0983" CasID="7440-09-7" GroupName="Alkali metal" GroupPeriod="4" block="s" Colour="silvery metal" Boiling="1032" Melting="336.50" Density="0.862" Classification="Metallic" Note="Forms many compounds, essential nutrient in plants and animals."/>
+
+<Element Name="Praseodymium" Symbol="Pr" AtomicNo="59" AtomicWeight="140.90765" CasID="7440-10-0" GroupName="Lanthanoid" GroupPeriod="6" block="f" Colour="silvery white, yellowish tinge" Boiling="3793" Melting="1204" Density="6.773" Classification="Metallic" Note="Glass in welders' goggles"/>
+
+<Element Name="Promethium" Symbol="Pm" AtomicNo="61" AtomicWeight="145" CasID="7440-12-2" GroupName="Lanthanoid" GroupPeriod="6" block="f" Colour="metallic" Boiling="3273" Melting="1204" Density="7.25" Classification="Metallic" Note="No known Promethium existing in the earth's crust"/>
+
+<Element Name="Protactinium" Symbol="Pa" AtomicNo="91" AtomicWeight="231.03588" CasID="7440-13-3" GroupName="Actinoid" GroupPeriod="7" block="f" Colour="silvery metallic" Boiling="4300" Melting="1870" Density="15.37" Classification="Metallic" Note="artificial"/>
+
+<Element Name="Radium" Symbol="Ra" AtomicNo="88" AtomicWeight="226" CasID="7440-14-4" GroupName="Alkaline earth metal" GroupPeriod="7" block="s" Colour="metallic" Boiling="2010" Melting="973" Density="5.50" Classification="Metallic" Note="Radium preparations are remarkable for maintaining themselves at a higher temperature than their surroundings, and for their radiations: alpha particles, beta particles, and gamma rays. Radium also produces neutrons when mixed with beryllium"/>
+
+<Element Name="Radon" Symbol="Rn" AtomicNo="86" AtomicWeight="222" CasID="10043-92-2" GroupName="Noble gas" GroupPeriod="6" block="p" Colour="colourless" Boiling="211.3" Melting="202.1" Density="0.00973" Classification="Non-Metallic" Note="Radioactive, comes from radium"/>
+
+<Element Name="Rhenium" Symbol="Re" AtomicNo="75" AtomicWeight="186.207" CasID="7440-15-5" GroupName="" GroupPeriod="6" block="d" Colour="greyish white" Boiling="5869" Melting="3450" Density="21.02" Classification="Metallic" Note=""/>
+
+<Element Name="Rhodium" Symbol="Rh" AtomicNo="45" AtomicWeight="102.90550" CasID="7440-16-6" GroupName="Platinum group metals" GroupPeriod="5" block="d" Colour="silvery white metallic" Boiling="3968" Melting="2239" Density="12.41" Classification="Metallic" Note="Used industrial catalytic "/>
+
+<Element Name="Roentgenium" Symbol="Rg" AtomicNo="111" AtomicWeight="280" CasID="54386-24-2" GroupName="" GroupPeriod="7" block="d" Colour="" Boiling="" Melting="" Density="19.282" Classification="Metallic" Note="artificial"/>
+
+<Element Name="Rubidium" Symbol="Rb" AtomicNo="37" AtomicWeight="85.4678" CasID="7440-17-7" GroupName="Alkali metal" GroupPeriod="5" block="s" Colour="silvery white" Boiling="961" Melting="312.79" Density="1.532" Classification="Metallic" Note="Low melting point, reacts violently with water like sodium"/>
+
+<Element Name="Ruthenium" Symbol="Ru" AtomicNo="44" AtomicWeight="101.07" CasID="7440-18-8" GroupName="Platinum group metal" GroupPeriod="5" block="d" Colour="silvery white metalliic" Boiling="4423" Melting="2520" Density="12.37" Classification="Metallic" Note="The metal is not attacked by hot or cold acids or aqua regia."/>
+
+<Element Name="Rutherfordium" Symbol="Rf" AtomicNo="104" AtomicWeight="104" CasID="53850-36-5" GroupName="" GroupPeriod="7" block="d" Colour="" Boiling="" Melting="" Density="18.1" Classification="Metallic" Note="artificial"/>
+
+<Element Name="Samarium" Symbol="Sm" AtomicNo="62" AtomicWeight="150.36" CasID="7440-19-9" GroupName="Lanthanoid" GroupPeriod="6" block="f" Colour="silvery white" Boiling="2067" Melting="1345" Density="7.52" Classification="Metallic" Note="Used in electronics industries."/>
+
+<Element Name="Scandium" Symbol="Sc" AtomicNo="21" AtomicWeight="44.955912" CasID="7440-20-2" GroupName="" GroupPeriod="4" block="d" Colour="silvery white" Boiling="3109" Melting="1812" Density="2.989" Classification="Metallic" Note="not attacked by a 1:1 mixture of nitric acid(HNO3) and 48% HF"/>
+
+<Element Name="Seaborgium" Symbol="Sg" AtomicNo="106" AtomicWeight="271" CasID="54038-81-2" GroupName="" GroupPeriod="7" block="d" Colour="" Boiling="" Melting="" Density="35" Classification="Metallic" Note="artificial"/>
+
+<Element Name="Selenium" Symbol="Se" AtomicNo="34" AtomicWeight="78.96" CasID="7782-49-2" GroupName="Chalcogen" GroupPeriod="4" block="p" Colour="grey, metallic lustre" Boiling="958" Melting="494" Density="4.809" Classification="Non-metallic" Note="Selenium has at least 29 isotopes, of which 5 are stable, and 6 are nuclear isomers"/>
+
+<Element Name="Silicon" Symbol="Si" AtomicNo="14" AtomicWeight="28.0855" CasID="7440-21-3" GroupName="" GroupPeriod="3" block="p" Colour="Dark grey with a bluish tinge" Boiling="3538" Melting="1680" Density="2.3296" Classification="Semi-metallic" Note="Used in semiconductors and electronics."/>
+
+<Element Name="Silver" Symbol="Ag" AtomicNo="47" AtomicWeight="107.8682" CasID="7440-22-4" GroupName="Coinage metal" GroupPeriod="5" block="d" Colour="silver" Boiling="2435" Melting="1234" Density="" Classification="Metallic" Note="Possesses the lowest contact resistance. Noble metal, in money, jewelry, eating utensils, soldering and brazing alloys. Silver iodide, AgI, is used for causing clouds to produce rain."/>
+
+<Element Name="Sodium" Symbol="Na" AtomicNo="11" AtomicWeight="22.98976928" CasID="7440-23-5" GroupName="Alkali metal" GroupPeriod="3" block="s" Colour="silvery white" Boiling="1156" Melting="371" Density="0.971" Classification="Metallic" Note="Soap, salt"/>
+
+<Element Name="Strontium" Symbol="Sr" AtomicNo="38" AtomicWeight="87.62" CasID="7440-24-6" GroupName="Alkaline earth metal" GroupPeriod="5" block="s" Colour="silvery white" Boiling="1655" Melting="1042" Density="2.64" Classification="Metallic" Note="Used in pyrotechnics for red colour"/>
+
+<Element Name="Sulfur" Symbol="S" AtomicNo="16" AtomicWeight="32.065" CasID="7704-34-9" GroupName="Chalcogen" GroupPeriod="3" block="p" Colour="lemon Yellow" Boiling="717.4" Melting="388.51" Density="2.067" Classification="Non-metallic" Note="Industrial raw material, Uses in production of matches, vulcanized rubber, dyes, and gunpowder"/>
+
+<Element Name="Tantalum" Symbol="Ta" AtomicNo="73" AtomicWeight="180.94788" CasID="7440-25-7" GroupName="" GroupPeriod="6" block="" Colour="grey blue" Boiling="5731" Melting="3269" Density="16.654" Classification="Metallic" Note="Tantalum is almost completely immune to chemical attack at temperatures below 150�C, and is attacked only by hydrofluoric acid, acidic solutions. Used in electrolytic capacitors"/>
+
+<Element Name="Technetium" Symbol="Tc" AtomicNo="43" AtomicWeight="98" CasID="74" GroupName="" GroupPeriod="5" block="d" Colour="silvery grey metallic" Boiling="5150" Melting="2470" Density="11.50" Classification="Metallic" Note=""/>
+
+<Element Name="Tellurium" Symbol="Te" AtomicNo="52" AtomicWeight="127.60" CasID="13494-80-9" GroupName="Chalcogen" GroupPeriod="5" block="p" Colour="silvery lustrous" Boiling="1261" Melting="722.80" Density="6.232" Classification="Semi-Metallic" Note="Not been found naturally, man-made, used in nuclear medicine."/>
+
+<Element Name="Terbium" Symbol="Tb" AtomicNo="65" AtomicWeight="158.92535" CasID="7440-27-9" GroupName="Lanthanoid" GroupPeriod="6" block="f" Colour="silvery white" Boiling="3503" Melting="1630" Density="8.229" Classification="Metallic" Note="Phosphor in TV tubes and fluorescent lights."/>
+
+<Element Name="Thallium" Symbol="Tl" AtomicNo="81" AtomicWeight="204.3833" CasID="7440-28-0" GroupName="" GroupPeriod="6" block="p" Colour="silvery white" Boiling="1746" Melting="577" Density="11.85" Classification="Metallic" Note="Thallium may cause cancer. Toxic, high-temperature superconductors."/>
+
+<Element Name="Thorium" Symbol="Th" AtomicNo="90" AtomicWeight="232.03806" CasID="7440-29-1" GroupName="Actinoid" GroupPeriod="7" block="f" Colour="silvery white" Boiling="5061" Melting="2028" Density="11.72" Classification="Metallic" Note="Possible nuclear fuel"/>
+
+<Element Name="Thulium" Symbol="Tm" AtomicNo="69" AtomicWeight="168.93421" CasID="7440-30-4" GroupName="Lanthanoid" GroupPeriod="6" block="f" Colour="silvey white" Boiling="2223" Melting="1818" Density="9.321" Classification="Metallic" Note="Least abundant of the earth elements, and is about as rare as silver, gold, or cadmium. Found in minerals such as monazite. Thulium is used as the radiation source in portable X-ray devices and in solid-state lasers. "/>
+
+<Element Name="Tin" Symbol="Sn" AtomicNo="50" AtomicWeight="118.710" CasID="7440-31-5" GroupName="" GroupPeriod="5" block="p" Colour="silvery lustrous" Boiling="2875" Melting="1818" Density="7.287" Classification="Metallic" Note="Main component of solder."/>
+
+<Element Name="Titanium" Symbol="Ti" AtomicNo="22" AtomicWeight="47.867" CasID="7440-32-6" GroupName="" GroupPeriod="4" block="d" Colour="silvery metallic" Boiling="3560" Melting="1930" Density="4.540" Classification="Metallic" Note="Corrosion-resistant (including resistance to sea water and chlorine), high tensile strength"/>
+
+<Element Name="Tungsten" Symbol="W" AtomicNo="74" AtomicWeight="183.84" CasID="7440-33-7" GroupName="" GroupPeriod="6" block="d" Colour="greyish white, lustrous" Boiling="5828" Melting="3695" Density="19.25" Classification="Metallic" Note="	strong but brittle; heat resistant; extremely high melting point"/>
+
+<Element Name="Ununhexium" Symbol="Uuh" AtomicNo="116" AtomicWeight="293" CasID="54100-71-9" GroupName="Chalcogen" GroupPeriod="7" block="" Colour="" Boiling="" Melting="" Density="9.32" Classification="Metallic" Note="man-made, highly unstable. Identified in the reaction of 248Cm with 48Ca"/>
+
+<Element Name="Ununoctium" Symbol="Uuo" AtomicNo="118" AtomicWeight="294" CasID="54144-19-3" GroupName="Noble Gas" GroupPeriod="" block="p" Colour="" Boiling="" Melting="" Density="" Classification="Non-metallic" Note="artificial. Only 3 atoms produced."/>
+
+<Element Name="Ununpentium" Symbol="Uup" AtomicNo="115" AtomicWeight="288" CasID="54085-64-2" GroupName="Pnictogen" GroupPeriod="7" block="p" Colour="" Boiling="" Melting="" Density="9.807" Classification="Metallic" Note=""/>
+
+<Element Name="Ununquadium" Symbol="Uuq" AtomicNo="114" AtomicWeight="289" CasID="54085-16-4" GroupName="" GroupPeriod="7" block="p" Colour="" Boiling="" Melting="" Density="11.342" Classification="Metallic" Note="unstable, man-made"/>
+
+<Element Name="Ununseptium" Symbol="Uus" AtomicNo="117" AtomicWeight="294" CasID="87658-56-8" GroupName="Halogen" GroupPeriod="7" block="p" Colour="" Boiling="" Melting="" Density="" Classification="Metallic" Note="Fusion reactions between 48Ca and 249Bk."/>
+
+<Element Name="Ununtrium" Symbol="Uut" AtomicNo="113" AtomicWeight="284" CasID="54084-70-7" GroupName="" GroupPeriod="7" block="p" Colour="" Boiling="" Melting="" Density="11.85" Classification="Metallic" Note="artificial"/>
+
+<Element Name="Uranium" Symbol="U" AtomicNo="92" AtomicWeight="238.02891" CasID="7440-61-1" GroupName="Actinoid" GroupPeriod="7" block="f" Colour="metallic grey" Boiling="4404" Melting="1405" Density="18.95" Classification="Metallic" Note="Nuclear fuel"/>
+
+<Element Name="Vanadium" Symbol="V" AtomicNo="23" AtomicWeight="50.9415" CasID="7440-62-2" GroupName="" GroupPeriod="4" block="d" Colour="silvery grey metallic" Boiling="3680" Melting="2175" Density="6.11" Classification="Metallic" Note="Brittle. Used to make tool steels."/>
+
+<Element Name="Xenon" Symbol="Xe" AtomicNo="54" AtomicWeight="131.293" CasID="7440-63-3" GroupName="Noble Gas" GroupPeriod="5" block="p" Colour="colourless" Boiling="165.03" Melting="161" Density="0.005887" Classification="Non-metallic" Note="Forms compounds with chlorine and fluorine, and a few others."/>
+
+<Element Name="Ytterbium" Symbol="Yb" AtomicNo="70" AtomicWeight="173.054" CasID="7440-64-4" GroupName="Lanthanoid" GroupPeriod="6" block="7" Colour="silvery white" Boiling="1469" Melting="1097" Density="6.965" Classification="Metallic" Note=""/>
+
+<Element Name="Yttrium" Symbol="Y" AtomicNo="39" AtomicWeight="88.90585" CasID="7430-65-5" GroupName="" GroupPeriod="5" block="d" Colour="silvery metallic" Boiling="3609" Melting="1799" Density="4.469" Classification="Metallic" Note="Two of its compounds are used to make the red color phosphors in cathode ray tube displays, used for red colour in TV screens"/>
+
+<Element Name="Zinc" Symbol="Zn" AtomicNo="30" AtomicWeight="65.38" CasID="7440-66-6" GroupName="" GroupPeriod="4" block="d" Colour="bluish pale grey" Boiling="1180" Melting="692.88" Density="7.134" Classification="Metallic" Note="Plating thin layers of zinc on to iron or steel is known as galvanising and helps to protect the iron from corrosion."/>
+
+<Element Name="Zirconium" Symbol="Zr" AtomicNo="40" AtomicWeight="91.224" CasID="7440-67-7" GroupName="" GroupPeriod="5" block="d" Colour="silvery white" Boiling="4682" Melting="2125" Density="6.506" Classification="Metallic" Note=""/>
+</PeriodicTable>

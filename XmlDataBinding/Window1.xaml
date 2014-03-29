@@ -1,0 +1,107 @@
+﻿<Window x:Class="XmlDataBinding.Window1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Basil Tungekar's Periodic Table of Elements" Height="600" Width="850">
+    <Window.Resources>
+        <XmlDataProvider x:Key="Table" Source="Periodic.xml" XPath="/PeriodicTable/Element"/>
+    </Window.Resources>
+    <Grid DataContext="{StaticResource Table}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.1in"/>
+            <RowDefinition Height="100*"/>
+            <RowDefinition Height="100*"/>
+            <RowDefinition Height="0.1in"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.1in"/>
+            <ColumnDefinition Width="100*"/>
+            <ColumnDefinition Width="200*"/>
+            <ColumnDefinition Width="0.1in"/>
+        </Grid.ColumnDefinitions>
+        <ListBox Grid.Column="2" Grid.RowSpan="2" Grid.ColumnSpan="1" IsSynchronizedWithCurrentItem="True" Grid.Row="1" ItemsSource="{Binding }" >
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Stretch">
+                        <TextBlock Foreground="Crimson" Text="{Binding XPath=@Name}" />
+                        <Separator/>
+                        <TextBlock Text="{Binding XPath=@Symbol}" />
+                        <Separator/>
+                        <TextBlock Foreground="MediumSeaGreen" Text="{Binding XPath=@AtomicNo}" />
+                        <Separator/>
+                        <TextBlock Text="{Binding XPath=@AtomicWeight}" />
+                        <Separator/>
+                        <TextBlock Foreground="Gray"  Text="{Binding XPath=@Classification}" />
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        <Grid Grid.Column="1" Grid.Row="1" MinHeight="185" MinWidth="185" MaxHeight="195" MaxWidth="195" >
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Border Grid.Column="0" Grid.ColumnSpan="3" BorderBrush="Black" BorderThickness="3" CornerRadius="3" Grid.RowSpan="3">
+                <Border Background="Bisque" BorderBrush="White" BorderThickness="3"/>
+            </Border>
+            <TextBlock Padding="5" Grid.Row="0" Grid.Column="0" Text="{Binding XPath=@AtomicNo}" Foreground="MediumSeaGreen" VerticalAlignment="Top" HorizontalAlignment="Left" FontSize="26"/>
+            <TextBlock Padding="5" Grid.Row="0" Grid.Column="1" Grid.ColumnSpan="2" Text="{Binding XPath=@AtomicWeight}" Foreground="Black" VerticalAlignment="Top" HorizontalAlignment="Right" FontSize="16"/>
+
+            <TextBlock Grid.Row="1" Grid.Column="1" Text="{Binding XPath=@Symbol}" Foreground="Crimson" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="40"/>
+            
+            <TextBlock Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="3" Text="{Binding XPath=@Name}" Foreground="Black" VerticalAlignment="Bottom" HorizontalAlignment="Center" FontSize="20"/>
+        </Grid>
+        <StackPanel Grid.Column="1" Grid.Row="2" HorizontalAlignment="Right">
+            <StackPanel Orientation="Horizontal">
+                <TextBlock FontWeight="Bold">Cas ID:</TextBlock>
+                <Separator Width="5"/>
+                <TextBlock Text="{Binding XPath=@CasID}"/></StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock FontWeight="Bold">GroupName:</TextBlock>
+                <Separator Width="5"/>
+                
+                <TextBlock Text="{Binding XPath=@GroupName}"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" >
+                <TextBlock FontWeight="Bold">GroupPeriod:</TextBlock>
+                <TextBlock Text="{Binding XPath=@GroupPeriod}"/>
+                <Separator Width="3"/>
+                <TextBlock FontWeight="Bold">Block:</TextBlock>
+                <TextBlock Text="{Binding XPath=@Block}"/>
+            </StackPanel>
+            
+            <StackPanel Margin="20" >
+                <TextBlock FontWeight="Bold">Colour:</TextBlock>
+                <Separator Width="250"/>
+            <TextBlock TextWrapping="Wrap" Width="200" TextAlignment="Justify" Text="{Binding XPath=@Colour}"/></StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock FontWeight="Bold">Classification:</TextBlock>
+                <Separator Width="100"/>
+            <TextBlock Foreground="Gray" Text="{Binding XPath=@Classification}"/></StackPanel>
+            <Separator Height="20"/>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock FontWeight="Bold">Boiling Point:</TextBlock>
+                <Separator Width="50"/>
+            <Separator/>
+            <TextBlock Text="{Binding XPath=@Boiling}"/></StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock FontWeight="Bold">Melting Point:</TextBlock>
+                <Separator Width="48"/>
+            <TextBlock Text="{Binding XPath=@Melting}"/></StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock FontWeight="Bold">Density:</TextBlock>
+                <Separator Width="75"/>
+                <TextBlock Text="{Binding XPath=@Density}"/></StackPanel>
+            <StackPanel Margin="20">
+                <TextBlock FontWeight="Bold">Note:</TextBlock>
+                <Separator Width="5"/>
+            <Separator/>
+            <TextBlock TextWrapping="Wrap" MinHeight="200" Width="200" Text="{Binding XPath=@Note}"/></StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>
